@@ -12,7 +12,7 @@ REM Follow step by step below
 
 REM
 echo "Running \m"
-gcc -c -o main.o main.cpp -I\"C:\mingw64\include\"
+::gcc -c -o main.o main.cpp -I\"C:\mingw64\include\"
 cls
 echo "Compiling Graphic"
 gcc -o main.exe  main.cpp -L\"C:\mingw64\lib -lopengl32 -lglu32 -lfreeglut
