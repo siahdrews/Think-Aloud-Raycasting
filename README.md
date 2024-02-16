@@ -16,3 +16,8 @@ I will be following a youtube tutorial I found
 - learn how to use OpenGL
 
 I hope for my project to end up as something similar to the original DOOM or Wolfenstein 3D
+
+
+### Updates
+ - V1: just an empty window
+ - V2: now the window has a little yellow square you can move around with wasd
