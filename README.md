@@ -22,3 +22,6 @@ I will be following a youtube tutorial I found
  - V1: just an empty window
  - V2: now the window has a little yellow square you can move around with wasd
  - V3: created the map to move the player around in
+
+
+Note: This may get marked as a virus if you try to download it from git, but it isn't one :)
