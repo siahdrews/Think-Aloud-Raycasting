@@ -1,2 +1,3 @@
-g++ -o main.exe  main.cpp -L\".\lib -lopengl32 -lglu32 -lfreeglut
+g++ main.cpp -o main.exe -L\".\lib -lopengl32 -lglu32 -lfreeglut
+pause
 main.exe
